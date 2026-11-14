@@ -1,0 +1,6 @@
+{
+  "name": "TechNeeds IGDTUW – Technical Mentorship Platform",
+  "description": "Reimagining tech mentorship for IGDTUW with structured cohorts, resource publishing, project and quiz assignments, gamified leaderboards, and AI-generated technical profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
